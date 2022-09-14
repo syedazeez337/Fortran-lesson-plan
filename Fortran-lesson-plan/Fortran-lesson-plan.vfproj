@@ -46,6 +46,8 @@
 				<Tool Name="VFManifestTool" SuppressStartupBanner="true"/></Configuration></Configurations>
 	<Files>
 		<Filter Name="Lesson_01">
-		<File RelativePath=".\Example_01.f90"/></Filter>
+		<File RelativePath=".\Example_01.f90"/>
+		<File RelativePath=".\Example_02.f90"/>
+		<File RelativePath=".\Example_03.f90"/></Filter>
 		<File RelativePath=".\ReadMe.md"/></Files>
 	<Globals/></VisualStudioProject>
